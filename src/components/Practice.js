@@ -4,8 +4,9 @@ class Practice extends Component{
     render(){
         return(
             <>
-            <h3>Practice makes perfect</h3>
-            <div className="hooray"></div>
+            <h3 className="blue">Practice makes perfect</h3>
+            <br></br>
+
             </>
         )
     }

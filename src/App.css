@@ -1,11 +1,9 @@
 .App {
   text-align: center;
 }
-
-.hooray{
-  background-image: linear-gradient(red, blue, red);
-  border-radius: 100% 20%/ 50% 200%;
-  padding: 10rem;
-  width: 50%;
-  margin: auto;
+.blue{
+  color: blue;
+}
+.red{
+  color: red;
 }
